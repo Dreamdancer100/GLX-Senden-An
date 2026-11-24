@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 About GLX Senden An
+
+### Images from the web, straight into your Nextcloud
+
+GLX Senden An ("Send to") sends pictures from any web page straight into your own Nextcloud files, without the detour through the download folder. Right-click an image and choose "Send to" followed by the name you gave your server, for example "GLX-Cloud".
+
+### Into the folder you choose
+
+Pick the target folder from a list of your Nextcloud folders. If it doesn't exist yet, it is created automatically. A notification confirms as soon as the image has been saved.
+
+### Secure with an app password
+
+The connection uses a separate Nextcloud app password, which you can revoke at any time on its own. Your normal Nextcloud password is never stored.
+
+### Take your settings along
+
+Settings can be exported and imported, practical for a new installation or another device; the app password is only included if you tick the box. Colour themes and built-in help with a step-by-step setup guide.
+
+---
+
 ## ✨ Features
 
 - 🚀 **Right-click to Nextcloud:** Send any image from a web page straight into your own Nextcloud files.
